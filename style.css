@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.tong{
+	width: 600px;
+	height: 350px;
+	border: grey 1px solid;
+	margin: 0 auto;
+}
+.tong h2{
+	background-color: #27a844;
+	color: white;
+	margin-top: 0px;
+}
+.main{
+	padding: 10px;
+	width: 100%;
+}
+.main input, .main label{
+	width: 90%;
+}
+.save{
+	background-color: green;
+	color: white;
+	width: 60px;
+	height: 30px;
+	margin-left: 10px;
+	border-radius: 3px;
+}
+.reset{
+	background-color: yellow;
+	width: 60px;
+	height: 30px;
+	border-radius: 3px;
+}
+.body{
+	width: 600px;
+	margin: 0 auto;
+	border:1px black solid;
+
+}
+.body th{
+	width: 70px;
+	background-color: #27a844;
+	font-weight: 50px;
+}
